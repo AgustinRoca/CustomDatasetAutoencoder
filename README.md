@@ -1,0 +1,1 @@
+This repository is a test on using a downloadable dataset, and adapting it for a ready-to-use autoencoder
